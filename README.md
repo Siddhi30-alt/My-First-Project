@@ -1,2 +1,3 @@
 # My First Project
-Learning Git and GitHub
+"Breast cancer detection model"
+
